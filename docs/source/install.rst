@@ -41,7 +41,7 @@ Fabric Samples and binaries, go ahead and execute the following command:
 
 .. code:: bash
 
-  curl -sSL http://bit.ly/2ysbOFE | bash -s 1.2.0-rc1
+  curl -sSL https://raw.githubusercontent.com/hyperledger/fabric/master/scripts/bootstrap.sh | bash -s 1.2.0-rc1
 
 .. note:: If you get an error running the above curl command, you may
           have too old a version of curl that does not handle
